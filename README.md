@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @adastraperasper
 - 👀 I’m interested in AI
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python, Neural Networks, Deep Learning, AI, Machine Learning, Power Electronics, Telecomunication Networks
 - 💞️ I’m looking to collaborate on application of AI in green transformation 
-- 📫 How to reach me ...
+- 📫 How to reach me ... @popescugimi on Telegram
 
 <!---
 adastraperasper/adastraperasper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
